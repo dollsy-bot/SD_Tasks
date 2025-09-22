@@ -1,0 +1,1 @@
+A set of interactive Python programs including a temperature converter, a number guessing game, an automated Sudoku solver, and a web scraper for product data extraction and CSV storage.
